@@ -1,5 +1,5 @@
 # Nhentai picture downloader
-## Preresquisites
+## Prerequisites
 * You must have Node.js installed.
 ## How to use
 * First, install the necessary dependencies with `npm install --save`
