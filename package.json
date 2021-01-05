@@ -10,7 +10,7 @@
   "author": "Nguyen Duong Khoa",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "nhentai-api-js": "git+https://github.com/nhentai-dev/API.git"
   },
   "repository": {
